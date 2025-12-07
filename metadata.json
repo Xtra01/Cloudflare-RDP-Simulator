@@ -1,0 +1,5 @@
+{
+  "name": "Cloudflare RDP Simulator",
+  "description": "An interactive simulator to teach and demonstrate setting up Cloudflare Tunnel and Zero Trust for secure Remote Desktop access without opening ports.",
+  "requestFramePermissions": []
+}
